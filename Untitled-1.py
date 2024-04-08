@@ -30,3 +30,5 @@ try:
     
 except FileNotFoundError:
     print("File not found at the specified path. Please check the file path and try again.")
+
+#Predict the monthly revenue!
